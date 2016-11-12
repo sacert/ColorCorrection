@@ -1,5 +1,5 @@
 # Color Correction
-Color correction for red and green color blindness using the Daltonization process. Aids in distinguishing certain colors apart to help those with deuteranopia.
+Color correction for red and green color blindness (deuteranopia) using the Daltonization process - aids in distinguishing colors which are normally hard to differentiate. 
 
 # How to use:
 
