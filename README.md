@@ -1,4 +1,4 @@
-# ColorCorrection
+# Color Correction
 Color correction for red and green color blindness
 
 Uses the Daltonization process found on the report within the docs folder.
