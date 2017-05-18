@@ -14,20 +14,20 @@ Then run the program by `./ColorCor [-l/u] src`
 
 #Examples:
 
-####Before:
+#### Before:
 <img style="float: right;" src="examples/before.png" height="400">
 
-####After:
+#### After:
 <img style="float: right;" src="examples/after.png" height="400">
 
-####Before:
+#### Before:
 <img style="float: right;" src="examples/before1.png" height="400">
 
-####After:
+#### After:
 <img style="float: right;" src="examples/after1.png" height="400">
 
-####Before:
+#### Before:
 <img style="float: right;" src="examples/before2.png" height="400">
 
-####After:
+#### After:
 <img style="float: right;" src="examples/after2.png" height="400">
